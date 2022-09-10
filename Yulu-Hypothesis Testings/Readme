@@ -1,7 +1,0 @@
-Could have made the sample size of the data same before doing Hypothesis testing which would have increased the power of the test.
-Example:(not only for anova , for all the tests)
-w1 = df[df['weather'] == 1]['count'].sample(850),
-w2= df[df['weather'] == 2]['count'].sample(850),
-w3 = df[df['weather'] == 3]['count'].sample(850)
-
-Checked for timing for a day in which timing the demand for the cycle is high. -- just with graph using displot
